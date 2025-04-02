@@ -1,2 +1,2 @@
 # MyShaders
-记录以下学习的各种shader
+记录一下学习的各种shader
